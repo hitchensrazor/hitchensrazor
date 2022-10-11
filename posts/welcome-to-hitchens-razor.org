@@ -11,4 +11,12 @@
 #+END_COMMENT
 
 
-We rant.
+#+BEGIN_QUOTE
+"What can be asserted without evidence can also be dismissed without evidence"
+
+                    -- Christopher Hitchens
+#+END_QUOTE
+
+This is the transcript blog for the popular (not yet) podcast Hitchens Razor.
+
+
