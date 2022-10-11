@@ -1,0 +1,4 @@
+Sitemap: https://hitchensrazor.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: hitchensrazor.github.io
