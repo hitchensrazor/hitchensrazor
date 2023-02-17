@@ -10,14 +10,7 @@
 
 #+END_COMMENT
 
-
-#+BEGIN_QUOTE
-"What can be asserted without evidence can also be dismissed without evidence"
-
-                    -- Christopher Hitchens
-#+END_QUOTE
-
-Hitchens' razor is available in all major platforms:
+Hitchens' Razor is available in all major platforms:
 
 [[https://open.spotify.com/show/7LS5G0W52qMJtuS2fc6LrV][Spotify]]
 
