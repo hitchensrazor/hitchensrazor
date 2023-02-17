@@ -17,6 +17,16 @@
                     -- Christopher Hitchens
 #+END_QUOTE
 
-This is the transcript blog for the popular (not yet) podcast Hitchens Razor.
+Hitchens' razor is available in all major platforms:
+
+[[https://open.spotify.com/show/7LS5G0W52qMJtuS2fc6LrV][Spotify]]
+
+[[https://podcasts.apple.com/us/podcast/hitchens-razor/id1654549235][Apple Podcasts]]
+
+[[https://podcastsmanager.google.com/show?hl=en&show=show:-uU3XpO575fTNlVVYDvRNg][Google Podcasts]]
+
+[[https://music.amazon.co.uk/podcasts/0a57087d-897e-469a-bbac-4389bf83ba66/hitchens'-razor][Amazon Music]]
+
+[[https://www.youtube.com/@hitchens-razor][Youtube]]
 
 
