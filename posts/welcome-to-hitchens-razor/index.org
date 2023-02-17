@@ -16,7 +16,7 @@ Hitchens' Razor is available in all major platforms:
 
 [[https://podcasts.apple.com/us/podcast/hitchens-razor/id1654549235][Apple Podcasts]]
 
-[[https://podcastsmanager.google.com/show?hl=en&show=show:-uU3XpO575fTNlVVYDvRNg][Google Podcasts]]
+[[https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9jYzYwNjQ1MC9wb2RjYXN0L3Jzcw][Google Podcasts]]
 
 [[https://music.amazon.co.uk/podcasts/0a57087d-897e-469a-bbac-4389bf83ba66/hitchens'-razor][Amazon Music]]
 
