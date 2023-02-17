@@ -17,7 +17,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Vinodh MJ Human and Vishnu Menon"  # (translatable)
-BLOG_TITLE = "Hitchens Razor"  # (translatable)
+BLOG_TITLE = "Hitchens' Razor"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://hitchensrazor.github.io/"
