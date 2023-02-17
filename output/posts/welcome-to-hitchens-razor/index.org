@@ -1,5 +1,5 @@
 #+BEGIN_COMMENT
-.. title: Welcome to Hitchens Razor!
+.. title: Welcome to Hitchens' Razor!
 .. slug: welcome-to-hitchens-razor
 .. date: 2022-10-11 20:49:29 UTC
 .. tags: 
@@ -10,7 +10,7 @@
 
 #+END_COMMENT
 
-Hitchens' Razor is available in all major platforms:
+Hitchens' Razor is available on all major platforms:
 
 [[https://open.spotify.com/show/7LS5G0W52qMJtuS2fc6LrV][Spotify]]
 
